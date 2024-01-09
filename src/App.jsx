@@ -20,36 +20,36 @@ const Slider = () => {
   const data = [
     {
       id: 1,
-      imgUrl: "https://i.postimg.cc/PrMGqZwx/pexels-m-venter-1659437.jpg",
-      desc: "Some beautiful roads cannot be discovered without getting loss.",
-      name: "EXPLORE NATURE",
+      imgUrl: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      desc: "Wander through serene pathways, where each turn reveals the untamed beauty of nature.",
+      name: "NATURE'S PATHWAYS",
     },
     {
       id: 2,
       imgUrl:
-        "https://i.postimg.cc/bw6KxhLf/pexels-eberhard-grossgasteiger-1062249.jpg",
-      desc: "Some beautiful roads cannot be discovered without getting loss.",
-      name: "EXPLORE NATURE",
+        "https://plus.unsplash.com/premium_photo-1673240367277-e1d394465b56?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      desc: "Embrace the tranquility of mountain vistas, a perfect escape into nature's silent splendor.",
+      name: "MOUNTAIN TRANQUILITY",
     },
     {
       id: 3,
       imgUrl:
         "https://i.postimg.cc/CMkTW9Mb/pexels-eberhard-grossgasteiger-572897.jpg",
-      desc: "Some beautiful roads cannot be discovered without getting loss.",
-      name: "EXPLORE NATURE",
+      desc: "Discover the lush forests, a verdant paradise that teems with life and whispers ancient tales.",
+      name: "FOREST WHISPERS",
     },
     {
       id: 5,
       imgUrl: "https://i.postimg.cc/6qdkn4bM/pexels-joyston-judah-933054.jpg",
-      desc: "Some beautiful roads cannot be discovered without getting loss.",
-      name: "EXPLORE NATURE",
+      desc: "Explore the coastal wonders, where the ocean's melody harmonizes with the dance of the waves.",
+      name: "COASTAL WONDERS",
     },
     {
       id: 6,
       imgUrl:
         "https://i.postimg.cc/RVm59Gqy/pexels-roberto-nickson-2559941.jpg",
-      desc: "Some beautiful roads cannot be discovered without getting loss.",
-      name: "EXPLORE NATURE",
+      desc: "Marvel at the desert's mystic beauty, where sands tell timeless stories under the watchful eye of the sun.",
+      name: "DESERT MYSTIQUE",
     },
   ];
 
