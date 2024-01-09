@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# Wanderlust in Nature
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Live Demo:** [Wanderlust in Nature](https://explore-nature-iota.vercel.app/)
 
-## Available Scripts
+## Introduction
+"Wanderlust in Nature" is a captivating web carousel application, showcasing the sublime beauty of natural landscapes across the world. Developed using Vite and React, this project invites users to embark on a visual journey, celebrating the diversity and magnificence of nature's wonders.
 
-In the project directory, you can run:
+## Purpose
+This carousel is designed not only as a medium of aesthetic appreciation but also as a digital testament to the importance of conserving the natural world. It aims to inspire a sense of wanderlust and a deep appreciation for the planet's varied and spectacular environments.
 
-### `npm start`
+## Features
+- Elegant and responsive image carousel with nature-themed photographs.
+- User-friendly navigation for a seamless experience.
+- Each image is accompanied by descriptive text, enriching the visual narrative.
+- Utilizes Vite and React for optimal performance and user experience.
+- FontAwesome icons for intuitive and aesthetic navigation.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technology Stack
+- **Vite**: A fast and modern build tool for web projects.
+- **React**: A powerful JavaScript library for building dynamic interfaces.
+- **FontAwesome**: For visually appealing navigation icons.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation and Setup
 
-### `npm test`
+### Installing Vite
+Before setting up the project, ensure that Vite is installed on your system. Read more instructions [here](https://vitejs.dev/guide/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Setting Up the Project
+1. Clone the Repository
+- git clone [repository URL](https://github.com/stephanienguyen2020/explore-nature)
+- cd [local repository]
 
-### `npm run build`
+2. Install Dependencies
+- npm install
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3. Run the Application
+- npm run dev
+  
+Access the carousel at http://localhost:3000.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Usage
+Navigate through the images using the arrow buttons. Each image is paired with a title and a descriptive narrative to enhance the exploration experience.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contributing
+Contributions are welcome to enhance the "Wanderlust in Nature" experience. To contribute:
+1. Fork the Repository.
+2. Create a Feature Branch (git checkout -b feature/YourFeature).
+3. Commit your Changes (git commit -m 'Add some YourFeature').
+4. Push to the Branch (git push origin feature/YourFeature).
+5. Open a Pull Request.
