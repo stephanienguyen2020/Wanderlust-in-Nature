@@ -34,20 +34,20 @@ const Slider = () => {
     {
       id: 3,
       imgUrl:
-        "https://i.postimg.cc/CMkTW9Mb/pexels-eberhard-grossgasteiger-572897.jpg",
+        "https://img.freepik.com/premium-photo/portrayal-ancient-forest-background-wallpaper_783299-3102.jpg",
       desc: "Discover the lush forests, a verdant paradise that teems with life and whispers ancient tales.",
       name: "FOREST WHISPERS",
     },
     {
       id: 5,
-      imgUrl: "https://i.postimg.cc/6qdkn4bM/pexels-joyston-judah-933054.jpg",
+      imgUrl: "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       desc: "Explore the coastal wonders, where the ocean's melody harmonizes with the dance of the waves.",
       name: "COASTAL WONDERS",
     },
     {
       id: 6,
       imgUrl:
-        "https://i.postimg.cc/RVm59Gqy/pexels-roberto-nickson-2559941.jpg",
+        "https://images.unsplash.com/photo-1489493173507-6feea31f12ff?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       desc: "Marvel at the desert's mystic beauty, where sands tell timeless stories under the watchful eye of the sun.",
       name: "DESERT MYSTIQUE",
     },
